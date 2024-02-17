@@ -556,7 +556,7 @@ header.sticky{
     width: 0%;
   }
 
-
+/*
 .new-img {
     display: flex;
     justify-content: space-between;
@@ -568,19 +568,6 @@ header.sticky{
     max-height: 350px;
     height: auto;
     max-width: 400px;
-}
+}*/
 
-
-@media (max-width: 767px) {
-    /* Mobile view styles */
-    .skills{
-        height: auto;
-    }
-    .news-img{
-        position: static;
-        margin-top: 20px; /* Adjust the margin as needed */
-    }
-    .contactme{
-        height: auto;
-    }
-}
+/*
