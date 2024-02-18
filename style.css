@@ -403,10 +403,6 @@ header.sticky{
     
 }
 
-.contactme{
-    height:100vh
-}
-
 @media(max-width:1700px){
     header{
         padding: 20px 8%;
