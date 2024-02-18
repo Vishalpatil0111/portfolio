@@ -532,6 +532,10 @@ header.sticky{
         border-radius: 50%;
         margin: 0 auto;
     }
+    .logo-c img{
+        width: 380px;
+    }
+    
 }
 
 .progress-container {
