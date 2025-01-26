@@ -21,9 +21,9 @@ body {
 }
 #lines{
     height: 100vh;
-    margin-left: 2%;
-    margin-right: 2%;
-    padding-right: 30px;
+    margin-left: 4%;
+    margin-right: 4%;
+    padding-right: 35px;
     border-left: 2px solid #fff;
     border-right: 2px solid #fff;
     opacity: 30%;
